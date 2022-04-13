@@ -8,4 +8,4 @@ steps:
     cloudFoundry:
       org: 'a6d1ed2btrial_trial-usd-1him9glt'
       space: 'dev_usd'
-    cfCredentialsId: 'CF_CREDENTIALSID'
+      credentialsId: 'CF_CREDENTIALSID'
